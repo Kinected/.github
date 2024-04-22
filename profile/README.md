@@ -8,6 +8,7 @@ Ce projet contient 7 répos github :
 - HandGestureRecognition (IA de reconnaissance des gestes)
 - FaceRecognition (IA de reconnaissance faciale)
 - Whisper (IA du chat vocal avec Whisper et ChatGPT)
+- Compagneur (Application de contrôle des données du miroir)
 - Raspberry (Codes de la raspberry et des capteurs)
 
 Ces répos sont accompagnés de leur README respectif.
