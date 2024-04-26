@@ -12,3 +12,5 @@ Ce projet contient 7 répos github :
 - Raspberry (Codes de la raspberry et des capteurs)
 
 Ces répos sont accompagnés de leur README respectif.
+
+Vidéo de présentation du projet : https://m.youtube.com/watch?si=VBoDJl_m-cunmhUf&v=Dl0W7xxtXmA&feature=youtu.be
